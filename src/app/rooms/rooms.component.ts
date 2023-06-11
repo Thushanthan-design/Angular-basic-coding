@@ -24,6 +24,7 @@ export class RoomsComponent {
       photo: 'https://pixabay.com/photos/lobby-hotel-interior-hallway-398845/',
       checkinTime: new Date('11-nov-2023'),
       checkoutTime: new Date('12-nov-2023'),
+      rating: 4.4,
     },
     {
       roomNumber: 2,
@@ -33,6 +34,7 @@ export class RoomsComponent {
       photo: 'https://pixabay.com/photos/lobby-hotel-interior-hallway-398846/',
       checkinTime: new Date('11-nov-2023'),
       checkoutTime: new Date('12-nov-2023'),
+      rating: 4.8,
     },
     {
       roomNumber: 3,
@@ -42,6 +44,7 @@ export class RoomsComponent {
       photo: 'https://pixabay.com/photos/lobby-hotel-interior-hallway-398847/',
       checkinTime: new Date('11-nov-2023'),
       checkoutTime: new Date('12-nov-2023'),
+      rating: 4.49,
     },
     {
       roomNumber: 4,
@@ -51,6 +54,7 @@ export class RoomsComponent {
       photo: 'https://pixabay.com/photos/lobby-hotel-interior-hallway-398845/',
       checkinTime: new Date('11-nov-2023'),
       checkoutTime: new Date('12-nov-2023'),
+      rating: 9.4,
     },
   ];
 }
